@@ -1,6 +1,3 @@
-Sure thing! Here's a fun and detailed `README.md` file for your project:
-
-```markdown
 # 🚗 Car Pool Game 🎱
 
 Welcome to the **Car Pool Game**! This is a unique pool game played on a billiards table where you use cars to strike all striped balls into the pockets before the computer strikes all the solid balls. 
@@ -53,6 +50,3 @@ This project is licensed under the MIT License.
 For any questions or feedback, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
 
 Enjoy the game! 🎉
-```
-
-Feel free to customize it further to suit your needs! 🚀
