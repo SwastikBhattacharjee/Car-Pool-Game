@@ -26,9 +26,6 @@ Enjoy cool sound effects that enhance your gaming experience.
 - **P5.js**
 - **Matter.js**
 
-## 📸 Screenshots
-![Game Screenshot](screenshot.png)
-
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
@@ -47,6 +44,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the MIT License.
 
 ## 📧 Contact
-For any questions or feedback, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, feel free to reach me in Github!
 
 Enjoy the game! 🎉
